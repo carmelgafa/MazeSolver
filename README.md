@@ -1,2 +1,5 @@
 # MazeSolver
-Maze generation and A* solver implementation in C#.
+
+Old project.
+
+Maze generation and solver implementation in C#.
