@@ -1,0 +1,8 @@
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\obj\Debug\Mouse.csprojAssemblyReference.cache
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\obj\Debug\Mouse.Form1.resources
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\obj\Debug\Mouse.csproj.GenerateResource.cache
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\bin\Debug\Mouse.exe.config
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\bin\Debug\Mouse.exe
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\bin\Debug\Mouse.pdb
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\obj\Debug\Mouse.exe
+\\blackvatican\home\Dropbox\work\Development\Mouse\Mouse\obj\Debug\Mouse.pdb
